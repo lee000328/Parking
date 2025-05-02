@@ -1,0 +1,7 @@
+# ----------------------
+torch>=1.13
+ultralytics  # YOLOv8용
+opencv-python
+numpy
+matplotlib
+pillow
