@@ -4,3 +4,8 @@
 - 프로젝트 초기 구조 세팅 완료
   - `.gitignore`, `README.md`, `requirements.txt` 작성
   - Git 저장소 초기화 및 GitHub 연결
+## 2025-05-07
+-경로변경 및 가상환경 생성
+  -Onedrive로 인한 권한 오류로 인해 폴더 변경
+  -폴더 변경이후 가상환경 제작
+  
