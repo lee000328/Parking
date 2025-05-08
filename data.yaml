@@ -1,0 +1,13 @@
+train: C:/Parking/train/images
+val: C:/Parking/valid/images
+test: C:/Parking/test/images
+
+nc: 2
+names: ['pillar', 'rebar']
+
+roboflow:
+  workspace: parking-e6bi3
+  project: parking-u3f7e
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/parking-e6bi3/parking-u3f7e/dataset/1
